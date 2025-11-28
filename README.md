@@ -2,7 +2,7 @@
 
 A thrilling browser-based racing game where you navigate challenging obstacle courses with physics-based vehicle controls. Test your driving skills across multiple levels filled with ramps, bridges, and treacherous terrain!
 
-![Drive Mad Game](webapp/cover.jpg)
+![Drive Mad Game](https://drive-mad-flame.vercel.app/)
 
 ## 🎮 About the Game
 
