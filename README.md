@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=🚀+Live+on+Vercel;Click+to+Open+Website)](https://drive-mad-l8ci.vercel.app/)
+
+
 # 🚗 Drive Mad
 
 A thrilling browser-based racing game where you navigate challenging obstacle courses with physics-based vehicle controls. Test your driving skills across multiple levels filled with ramps, bridges, and treacherous terrain!
